@@ -414,13 +414,27 @@ hr {
     background: #D7DBFF;
 }
 
-.scroll {
+.scroll-btn {
     display: flex;
     align-items: center;
     justify-content: space-between;
     width: 121px;
     height: 38px;
     margin: -36px auto 0;
+    cursor: pointer;
+    text-decoration: none;
+    color: #317189;
+    background: white;
+    border: none;
+}
+
+.scroll {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 121px;
+    height: 38px;
+    /* margin: -36px auto 0; */
     cursor: pointer;
     text-decoration: none;
     color: #317189;

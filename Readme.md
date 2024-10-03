@@ -2,6 +2,9 @@
 
 ![Design of Assignment](./Capture.PNG)
 
+## NOTE
+The website looks similar to the design at the width of 1440px.
+
 ## Additional Functionalities
 
 1. Made the site fully responsive across devices.
